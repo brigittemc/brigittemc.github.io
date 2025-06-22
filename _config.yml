@@ -1,3 +1,4 @@
 theme: jekyll-theme-architect
 title: Brigitte McColl's Portfolio
 description: Bookmark this to keep an eye on my project updates!
+remote_theme: pages-themes/slate@v0.2.0
