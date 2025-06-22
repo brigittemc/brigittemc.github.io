@@ -27,6 +27,7 @@ The artifacts below showcase my ability to take the review of my code that I did
   The more I do Junit tests the better I get at writing them. Working on this artifact is helping me learn more about Junit tests and understand how to write them properly to cover the code. The main challenges that I faced was with certain tests failing and I wasn’t able to fix every test that failed because I am still confused on how to fix the tests at the moment. The other challenge that I faced was with the validation and trying to understand why when I add it, it causes more code to not be covered again. I hope to keep working on this to make sure I add in the validation and that all the tests are running correctly. 
 
 [Link to Original Artifact](https://github.com/brigittemc/brigittemc.github.io/blob/main/Original/Software%20Design%20and%20Engineering%20Artifact.zip)
+
 [Link to Enhanced Artifact](https://github.com/brigittemc/brigittemc.github.io/blob/main/Enhanced/Software%20Design%20and%20Engineering%20-%20Updated%20Artifact.zip)
 
 
@@ -40,6 +41,7 @@ The reason that I selected this artifact was because it can show a variety of di
   In the past, I have been introduced to Hash Maps, but I haven’t really used them in this way so when enhancing this artifact, I learned more about how to implement Hash Maps. I did have to do some research on some of the different ways of getting information from a Hash Map and any other built-in functionalities that come with using a Hash Map. Even though I needed to look up some information about Hash Maps, I did know exactly where I needed to put them and what changes to the code that needed to happen. The main challenge that I faced was making sure that I use the correct Hash Map functionalities to make sure that it runs smoothly.  
 
 [Link to Original Artifact](https://github.com/brigittemc/brigittemc.github.io/blob/main/Original/Algorithms%20and%20Data%20Structures%20Artifact.zip)
+
 [Link to Enhanced Artifact](https://github.com/brigittemc/brigittemc.github.io/blob/main/Enhanced/Algorithms%20and%20Data%20Structures%20-%20Updated%20Artifact.zip)
 
 
@@ -52,6 +54,7 @@ The reason that I selected this artifact was because it can show a variety of di
   In the process of enhancing this artifact, I learned more about how I can go about getting the information from the server and through the JWT token. This is where a lot of my challenges came from because I tried a couple of ways doing it and it never made sense. I was able to use some online MongoDB forums and StackOverflow to help with these challenges. Another challenge that I faced was when I was trying to run my program. I kept getting errors when I tried to run it so I turned to StackOverflow to help me solve my problem with running the program. 
 
 [Link to Original Artifact](https://github.com/brigittemc/brigittemc.github.io/blob/main/Original/Databases%20Artifact.zip)
+
 [Link to Enhanced Artifact](https://github.com/brigittemc/brigittemc.github.io/blob/main/Enhanced/Databases%20-%20Updated%20Artifact.zip)
 
 
