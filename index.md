@@ -4,6 +4,7 @@
 
 ## Code Review
 
+Link to Youtube Video: [(https://youtu.be/6Lf3Znu4wfs)]
 ## Artifacts
 
 ### Artifact One: Software design and engineering 
