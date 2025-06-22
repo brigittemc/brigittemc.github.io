@@ -6,15 +6,18 @@
 
 ## Self-Assessment
 
-  Throughout this program and the creation of this portfolio has taught me how I can review my code and make changes to it so that my code will be more efficient. This portfolio helped me showcase
+  Throughout this program and the creation of this portfolio has taught me how I can review my code and make changes to it so that my code will be more efficient. This portfolio helped me showcase my skills in thinking about the security of my projects. Over the course of this program I have become more and more interested in adding security measures such as JUnit Testing and also running other tests. I always liked running my projects and debugging and fixing them. I think that these projects where I got to work on my testing and debugging skills that it helped me figure out what kind of job that I would want in the future. In class that the first artifact and second artifact is from helped me understand that I like learning about security measures for applications and how we should be thinking about security throughout the creation of the project. For example, thinking about input validation while writing the code instead of thinking about it after the entire project has been created. 
 
-## Code Review
+  When it comes to collaborating in a team environment, I keep reinforcing the need to have others look at my code. I have had some problems with my code in the past that I asked for help with and it was a small fix that I just wasn't seeing so having the extra pair of eyes look at it helped me fix it. I also found that sometimes explaining the project that I am trying to create to someone who doesn't know anything about coding helped me understand my code more and help me simplify some of the functionalities that I had to write. In this program, I have also learned how to talk to stakeholders to get a better understanding of what they would want in their project. Being able to speak to them and explain some of the more technical information to them in a way that they understand is a great skill that I have learned. When it comes to talking with stakeholders about their project, knowing how to ask questions to understand what they want their project to look like was another skill that I have learned throughout this program. 
 
-[Link to Youtube Video](https://youtu.be/6Lf3Znu4wfs)
 
 ## Artifacts
 
-The artifacts below showcase my ability to take the review of my code that I did and make the enhancements that I wanted to make. There are three artifacts below that cover these three categories: software design and engineering, algorithms and data structures, and databases. You are able to read a description of the artifacts and the enhancements that I made to them. 
+The artifacts and code review below showcase my ability to take the review of my code that I did and make the enhancements that I wanted to make. There are three artifacts below that cover these three categories: software design and engineering, algorithms and data structures, and databases. You are able to read a description of the artifacts and the enhancements that I made to them. 
+
+## Code Review
+
+[Link to Code Review Youtube Video](https://youtu.be/6Lf3Znu4wfs)
 
 ### Artifact One: Software Design and Engineering 
 
